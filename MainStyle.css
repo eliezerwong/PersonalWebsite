@@ -32,7 +32,7 @@ h1 {
 
 }
 
-ul {
+#nav {
     
     list-style-type: none;
     padding: 0px;
@@ -120,4 +120,21 @@ h3 {
     padding-left: 5%;
     padding-right: 5%;
     margin-bottom:0px;
+}
+
+#Skills {
+    background-color: rgba(255,255,255,0.75);
+    width: 70%;
+    height: auto;
+    display: block;
+    border-radius: 5px;
+    padding: 4px 4px;
+    margin: 10px auto;
+}
+
+#sk{
+    text-align:left;
+    margin:auto;
+    margin-left:20%;
+    margin-bottom:20px;
 }
