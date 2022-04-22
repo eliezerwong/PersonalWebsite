@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLCLzkfpSqXJ/Z39N6IajLvfyoyZ3oX27fXbkG+AsmMViJiRYK+mXns8h9FcUUrTYP6E2xq0nniQYtSCMm9BNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eliez\\source\\repos\\eliezerwong\\PersonalWebsite\\QRCodePersonalWebsite\\QRCodePersonalWebsite\\QRCodePersonalWebsite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliez\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\eliez\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\eliez\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\eliez\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512",
+    "C:\\Users\\eliez\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\eliez\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
